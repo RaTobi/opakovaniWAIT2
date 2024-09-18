@@ -1,0 +1,40 @@
+body{
+  background-color: black;
+}
+
+.img{
+display: block;
+margin-left: 800px;
+}
+
+.text{
+    color:white;
+    text-align: center;
+}
+
+table, th, td, td{
+    border: 2px solid white ;
+    border-collapse: collapse;
+    margin-left:530px ;
+}
+
+.table-text{
+    color: white;
+    text-align: center;
+}
+
+.img2{
+    display: block;
+    margin-left: 1300px;
+    margin-top: 240px;
+    margin-bottom: -200px;
+
+}
+
+.img3{
+   display:block;
+   margin-left: 200px;
+   margin-bottom: -550px;
+   margin-top: 20px;
+
+}
